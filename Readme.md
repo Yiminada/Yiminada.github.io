@@ -4,7 +4,7 @@
 :star: Here's my github portfolio. You can quickly know me from this.
 
 ### Website Preview
-<img src="website_images/HomePage.gif" width="900">
+<img src="web.png" width="900">
   
 
 ## Sections 📚
